@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redctBlog/static/css/main.18cfa6a8.css",
+    "main.js": "/redctBlog/static/js/main.9aeb1713.js",
+    "static/js/453.ad6eb26e.chunk.js": "/redctBlog/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/redctBlog/index.html",
+    "main.18cfa6a8.css.map": "/redctBlog/static/css/main.18cfa6a8.css.map",
+    "main.9aeb1713.js.map": "/redctBlog/static/js/main.9aeb1713.js.map",
+    "453.ad6eb26e.chunk.js.map": "/redctBlog/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18cfa6a8.css",
+    "static/js/main.9aeb1713.js"
+  ]
+}
